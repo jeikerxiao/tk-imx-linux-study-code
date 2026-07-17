@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/mxc/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o drivers/video/fbdev/mxc/built-in.o drivers/video/fbdev/mxc/mxc_edid.o drivers/video/fbdev/mxc/mxc_dispdrv.o drivers/video/fbdev/mxc/mxc_lcdif.o drivers/video/fbdev/mxc/mxc_ipuv3_fb.o 

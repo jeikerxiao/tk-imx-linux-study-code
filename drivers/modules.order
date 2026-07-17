@@ -1,0 +1,9 @@
+kernel/drivers/net/wireless/brcm80211/brcmutil/brcmutil.ko
+kernel/drivers/net/wireless/brcm80211/brcmfmac/brcmfmac.ko
+kernel/drivers/input/serio/serport.ko
+kernel/drivers/input/mouse/psmouse.ko
+kernel/drivers/input/evbug.ko
+kernel/drivers/i2c/algos/i2c-algo-pcf.ko
+kernel/drivers/i2c/algos/i2c-algo-pca.ko
+kernel/drivers/rpmsg/imx_rpmsg_pingpong.ko
+kernel/drivers/rpmsg/imx_rpmsg_tty.ko
